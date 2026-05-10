@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339972698194",
+    "project_id": "mealapp-8fc3f",
+    "storage_bucket": "mealapp-8fc3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339972698194:android:7ba79049a6599545546f8b",
+        "android_client_info": {
+          "package_name": "com.example.el_bershama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXe3Ude-fgdjvEOJHbdyZWf7_Yz-Io28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
