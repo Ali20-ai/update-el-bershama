@@ -4,7 +4,7 @@ import 'package:el_bershama/core/style/colors_manger.dart';
 import 'package:el_bershama/core/style/styles_manger.dart';
 import 'package:el_bershama/core/widgets/button_widget.dart';
 import 'package:el_bershama/features/account/accountScreen.dart';
-import 'package:el_bershama/features/alarm/alrmScreen.dart';
+import 'package:el_bershama/features/alarm/alarm.dart';
 import 'package:el_bershama/features/medicine/medicien.dart';
 import 'package:el_bershama/features/models/personal/models.dart';
 import 'package:el_bershama/features/newMdeicien/add_medic.dart';
@@ -221,3 +221,4 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
